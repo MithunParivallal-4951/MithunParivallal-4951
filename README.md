@@ -47,7 +47,7 @@ I'm a B.Tech student specializing in **Artificial Intelligence & Data Science**,
 ## 🔧 Tech Stack
 
 ```python
-{
+mithun = {
     "languages"  : ["Python"],
     "libraries"  : ["Pandas", "NumPy", "Scikit-Learn", "Matplotlib"],
     "interests"  : ["Data Engineering", "ETL Pipelines", "Data Analysis"],
@@ -84,6 +84,6 @@ I'm a B.Tech student specializing in **Artificial Intelligence & Data Science**,
 
 ![footer](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Thanks+for+visiting+%F0%9F%99%8C)
 
-> *"Data is the new oil — I'm here to refine it."*
+> *"No days off. The data doesn't sleep and neither do I."*
 
 </div>
