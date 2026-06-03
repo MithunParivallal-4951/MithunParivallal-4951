@@ -74,7 +74,7 @@ mithun = {
 
 <div align="center">
 
-📧 **Reach me at:** `[your email here]`
+📧 **Reach me at:** `[Mithunparivallal@gmail.com]`
 
 </div>
 
