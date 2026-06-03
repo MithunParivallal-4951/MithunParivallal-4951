@@ -44,7 +44,7 @@ I'm a B.Tech student specializing in **Artificial Intelligence & Data Science**,
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
 ```python
 mithun = {
