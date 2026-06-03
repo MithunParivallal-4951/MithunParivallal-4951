@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Hey,%20I'm%20Mithun%20P%20👋&amp;fontSize=45&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=B.Tech%20AI%20%26%20Data%20Science%20%7C%20Data%20Engineering%20Enthusiast&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" />
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=100&lines=Hey%2C+I'm+Mithun+P+%F0%9F%91%8B)
 
 <br/>
 
@@ -82,7 +82,7 @@ mithun = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,50:203a43,100:0f2027&amp;height=120&amp;section=footer" />
+![footer](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Thanks+for+visiting+%F0%9F%99%8C)
 
 > *"Data is the new oil — I'm here to refine it."*
 
