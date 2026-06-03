@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Mithun%20P%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20%7C%20Data%20Engineering%20Enthusiast&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Mithun%20P%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20%7C%20Data%20Engineering%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+AI+%26+Data+Science+Student+%F0%9F%8E%93;Data+Engineering+Enthusiast+%F0%9F%94%A7;Python+Developer+%F0%9F%90%8D;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +28,6 @@
 
 I'm a B.Tech student specializing in **Artificial Intelligence & Data Science**, passionate about turning raw data into meaningful insights. I love building pipelines, wrangling messy datasets, and learning how data flows at scale.
 
-- 🔭 Currently interning at **Innolift Ventures** — building real-world Python projects
 - 🌱 Deepening my knowledge in **Data Engineering** — pipelines, ETL, and data architecture
 - 🛠️ Building personal projects that solve real problems
 - 🤝 Open to **internships** and exciting collaborations
