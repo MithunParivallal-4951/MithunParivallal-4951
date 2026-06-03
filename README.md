@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Mithun%20P%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20%7C%20Data%20Engineering%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Hey,%20I'm%20Mithun%20P%20👋&amp;fontSize=45&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=B.Tech%20AI%20%26%20Data%20Science%20%7C%20Data%20Engineering%20Enthusiast&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" />
 
 <br/>
 
@@ -82,7 +82,7 @@ mithun = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,50:203a43,100:0f2027&amp;height=120&amp;section=footer" />
 
 > *"Data is the new oil — I'm here to refine it."*
 
