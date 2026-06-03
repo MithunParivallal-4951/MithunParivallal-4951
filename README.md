@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=B.Tech+AI+%26+Data+Science+Student+%F0%9F%8E%93;Data+Engineering+Enthusiast+%F0%9F%94%A7;Python+Developer+%F0%9F%90%8D;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+AI+%26+Data+Science+Student+%F0%9F%8E%93;Data+Engineering+Enthusiast+%F0%9F%94%A7;Python+Developer+%F0%9F%90%8D;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 </div>
 
@@ -47,7 +47,7 @@ I'm a B.Tech student specializing in **Artificial Intelligence & Data Science**,
 ## 🔧 Tech Stack
 
 ```python
-mithun = {
+{
     "languages"  : ["Python"],
     "libraries"  : ["Pandas", "NumPy", "Scikit-Learn", "Matplotlib"],
     "interests"  : ["Data Engineering", "ETL Pipelines", "Data Analysis"],
@@ -62,9 +62,9 @@ mithun = {
 
 <div align="center">
 
-![Mithun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MithunParivallal-4951&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MithunParivallal-4951&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MithunParivallal-4951&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MithunParivallal-4951&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
 
 </div>
 
@@ -74,7 +74,7 @@ mithun = {
 
 <div align="center">
 
-📧 **Reach me at:** `[Mithunparivallal@gmail.com]`
+📧 **Reach me at:** `Mithunparivallal@gmail.com`
 
 </div>
 
